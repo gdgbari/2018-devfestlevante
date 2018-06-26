@@ -1,59 +1,223 @@
+#OTHER ACTIVITIES
 -
-  id: 307
-  title: "Coffee Break"
+  id: 101
+  title: "Arrivo"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Check in struttura"
+
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 102
+  title: "Aperitivo di Benvenuto"
+  place: "Anfiteatro"
   service: true
+  description: "4 chiacchiere in compagnia"
+
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
+  id: 103
+  title: "Notte della Taranta"
+  place: "Melpignano"
+  service: true
+  description: "Il classico concertone della musica popolare salentina"
+-
+  id: 104
+  title: "setup computer Ice breaking / connect the dots"
+  place: "Pagoda"
+  service: true
+  description: "Scaldiamo i motori"
+
+-
+  id: 105
+  title: "Festa in piscina"
+  place: "Piscina"
+  service: true
+  description: "Party!!!"
+
+-
+  id: 106
+  title: "Cena comunitaria"
+  place: "Ristorante"
+  service: true
+  description: "Arrivederci DevFest!"
+
+-
+  id: 107
+  title: "Speechless"
+  place: "Anfiteatro"
+  service: true
+  description: "5 personaggi in cerca di brutte figure!"
+
+-
+  id: 108
+  title: "Partenza"
+  place: ""
+  service: true
+  description: ""
+
+#TALKS
+-
+  id: 201
+  title: "Image Recognition with TensorFlow using Deep Learning"
+  description: "Nowadays, Deep Learning is widely used in every IT sector even though a lot people might not know this. The expression “Deep Learning” brings together a vast series of algorithms which are based on the concept of the neural networks. In this speech we are going to understand the basic principle of Deep Learning and how it could be performed with Tensorflow during the image recognition process."
+  subtype: presentation
+  speakers: [8]
+  language: it
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  id: 202
+  title: "App multipiattaforma in tempo record con Flutter"
+  description: "Flutter è il nuovo framework di Google che consente di creare applicazioni native per IOS e Android con un'esperienza utente coinvolgente e buone performance. Il supporto nativo al Material Design, l'hot reload e l'estrema personalizzazione sono solo alcune delle ragioni che fanno di  fanno di Flutter un ottimo strumento per riscoprire lo sviluppo mobile in maniera piacevole e produttiva. Dopo aver analizzato insieme le principali caratteristiche del framework proveremo a scrivere una semplice applicazione che metta in luce le sue grandi potenzialità."
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
+  speakers: [9]
+  language: it
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 203
+  title: "Make Android Great Again"
+  description: "Since 2010, Google has defined its product development vision as 'Mobile-First',  but in recent times this mantra has been superseded by new initiatives concerning AI and IoT. It's time to Make Android Great Again with Google's newest IoT platform: Android Things. We will see how to build apps for your IoT devices using existing Android development tools. Are you ready to unleash Kotlin's true power?"
+  subtype: presentation
+  speakers: [10]
+  language: it
+  complexity: "Beginner"
+
+-
+  id: 204
+  title: "TypeScript Overview"
+  description: "TypeScript è il “superset” di JavaScript che ci consente di scrivere oggi le applicazioni di domani, aiutando lo sviluppatore a far si che 'Javascript non si rompa'!"
+  subtype: presentation
+  speakers: [14]
+  language: it
+  complexity: "Intermediate"
+
+-
+  id: 205
+  title: "AR and deeplearning"
+  description: "This abstract represents a step of the ongoing research being carried out at HOK. The general ambition of the research is to apply machine learning techniques in the daily design and Building Information Models workflows. The main focus areas are daylight analyses, Augmented Reality and Mars exploration."
+  subtype: presentation
+  speakers: [15]
+  language: it
+  complexity: "Intermediate"
+
+-
+  id: 206
+  title: "Google Assistant"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: it
+  complexity: "Intermediate"
+
+#WORKSHOP
+
+-
+  id: 301
+  title: "Kotlin 101"
+  description: "Benvenuti nell'universo Android! Roberto Orgiu, GDE Android ci introdurrà Kotlin il nuovo linguaggi di programmazione di IntelliJ e promosso come linguaggio principale su Android insieme a Java"
+  subtype: workshop
+  speakers: [12]
+  language: it
+  complexity: "beginner"
+
+-
+  id: 302
+  title: "TensorFlow Workshop"
+  description: "TensorFlow è un framework di machine learning rilasciato da Google e rapidamente diventato una delle librerie più usate (e più complete) nel campo. In questo workshop impareremo come utilizzarlo per implementare algoritmi predittivi e di classificazione, in tre parti: (1) utilizzo di estimator; (2) creazione di modelli personalizzati; (3) interfacciamento a basso livello con la eager execution. Vedremo anche rapidamente come interagire con l'ambiente mobile ed embedded, e come usufruire dei servizi in cloud"
+  subtype: workshop
+  speakers: [13]
+  language: it
+  complexity: "beginner"
+
+-
+  id: 303
+  title: "Angular: il web framework più maturo sul mercato"
+  description: "L’adozione del Web come canale per servire applicazioni è uno standard de facto. Analogamente, anche l’adozione di tecnologie per SPA sta diventando la norma nella realizzazione di nuovi progetti. Tra queste, Angular è sicuramente la più matura. Difatti, facendo tesoro dell’esperienza raccolta con la prima versione, è stato possibile realizzare uno strumento moderno e al tempo stesso adatto al mondo enterprise. Vale la pena studiare Angular? Senza dubbio sì, se si vuole fare affidamento su uno strumento ben collaudato e pronto a supportare progetti che tenderanno a crescere nel tempo."
+  subtype: workshop
+  speakers: [17,18,19]
+  language: it
+  complexity: "beginner"
+
+-
+  id: 304
+  title: "Firebase"
+  description: ""
+  subtype: workshop
+  speakers: [16]
+  language: it
+  complexity: "beginner"
+
+-
+  id: 305
+  title: "Convodesign"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: it
+  complexity: "beginner"
+
+-
+  id: 306
+  title: "Google Cloud"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: it
+  complexity: "beginner"
+
+-
+  id: 401
+  title: "Hashcode"
+  description: "risolvi un problema in 4 ore con la tua tecnologia preferita"
+  subtype: hackathon
+  speakers: []
+  language: it
+  complexity: "beginner"
+
+
+#-
+#  id: 001
+#  title: "Material design: Visual style and imagery"
+#  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+#  subtype: workshop
+#  speakers: [3, 6]
+#  language: en
+#  complexity: "Intermediate"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#-
+#  id: 002
+#  title: "Building Cloud-powered wearable Apps"
+#  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+#  subtype: presentation
+#  speakers: [4, 5]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#-
+#  id: 003
+#  title: "Android L Animation"
+#  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+#  subtype: presentation
+#  speakers: [4]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#-
+#  id: 004
+#  title: "Polymer: Interacting with Google Services using nothing but HTML"
+#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#  subtype: keynote
+#  speakers: [6]
+#  language: uk
+#  complexity: "Beginner"
+#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#-
+#  id: 005
+#  title: "Test: Interacting with Google Services using nothing but HTML"
+#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#  subtype: keynote
+#  speakers: [7]
+#  language: en
+#  complexity: "Expert"
+#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"

@@ -14,3 +14,8 @@
     - {name: "Enjore", description: "Enjore", link: "https://www.enjore.com", imageUrl: "enjore.png"}
     - {name: "Math2B", description: "Math2B", link: "http://www.math2b.it/", imageUrl: "math2B.png"}
     - {name: "ApuliaSoft", description: "ApuliaSoft", link: "https://www.apuliasoft.com/", imageUrl: "apuliasoft.png"}
+-
+  group: "Patrocinato da"
+  elements:
+    - {name: "Politecnico di Bari", description: "Politecnico di Bari", link: "https://www.poliba.it", imageUrl: "poliba.jpg", width: "200px"}
+    - {name: "Poliba Alumni Association", description: "il network professionale degli Alumni del PoliBA", link: "https://alumni.poliba.it/", imageUrl: "logo-poliba-alumni.jpg", width: "200px"}

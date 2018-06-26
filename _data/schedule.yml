@@ -1,50 +1,175 @@
-- 
-  date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+#SATURDAY 25
+-
+  date: "2018-08-25"
+  dateReadable: "25 Agosto"
+  tracks:
+    - {title: "Attività", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	endTime: "17:00",
+    	sessionIds: [101]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        startTime: "17:00",
+        endTime: "19:00",
+        sessionIds: [102]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	startTime: "19:15",
+    	endTime: "23:59",
+    	sessionIds: [103]
     }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
+
+#SUNDAY 26
+-
+  date: "2018-08-26"
+  dateReadable: "26 Agosto"
+  tracks:
+    - {title: "Attività", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "19:30",
+    	endTime: "21:00",
+    	sessionIds: [104]
+    }
+    - {
+        startTime: "21:00",
+        endTime: "22:00",
+        sessionIds: [201]
+    }
+    - {
+    	startTime: "22:00",
+    	endTime: "23:00",
+    	sessionIds: [202]
+    }
+    - {
+        startTime: "23:00",
+        endTime: "00:00",
+        sessionIds: [203]
+    }
+
+#MONDAY 27
+-
+  date: "2018-08-27"
+  dateReadable: "27 Agosto"
+  tracks:
+    - {title: "Workshop 1", color: "#90be4e"}
+    - {title: "Workshop 2", color: "#03a9f4"}
+    - {title: "Workshop 3", color: "#e91e63"}
+  timeslots:
     - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	endTime: "13:00",
+    	sessionIds: [301,302,305]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+        startTime: "19:30",
+        endTime: "20:30",
+        sessionIds: [204]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+    	startTime: "21:00",
+    	endTime: "24:00",
+    	sessionIds: [105]
+    }
+
+#TUESDAY 28
+-
+  date: "2018-08-28"
+  dateReadable: "28 Agosto"
+  tracks:
+    - {title: "Workshop 1", color: "#90be4e"}
+    - {title: "Workshop 2", color: "#03a9f4"}
+    - {title: "Workshop 3", color: "#e91e63"}
+  timeslots:
+    - {
+        startTime: "10:00",
+       	endTime: "13:00",
+       	sessionIds: [301,302,305]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	startTime: "22:00",
+    	endTime: "24:00",
+    	sessionIds: [107]
     }
+
+#WEDNESDAY 29
+-
+  date: "2018-08-29"
+  dateReadable: "29 Agosto"
+  tracks:
+    - {title: "Workshop 1", color: "#90be4e"}
+    - {title: "Workshop 2", color: "#03a9f4"}
+    - {title: "Workshop 3", color: "#e91e63"}
+  timeslots:
+    - {
+        startTime: "10:00",
+       	endTime: "13:00",
+       	sessionIds: [301,302,305]
+    }
+    - {
+        startTime: "19:30",
+        endTime: "20:30",
+        sessionIds: [205]
+    }
+    - {
+    	startTime: "21:00",
+    	endTime: "24:00",
+    	sessionIds: [401]
+    }
+
+#THURSDAY 30
+-
+  date: "2018-08-30"
+  dateReadable: "30 Agosto"
+  tracks:
+    - {title: "Workshop 4", color: "#90be4e"}
+    - {title: "Workshop 5", color: "#03a9f4"}
+    - {title: "Workshop 6", color: "#e91e63"}
+  timeslots:
+    - {
+        startTime: "10:00",
+       	endTime: "13:00",
+       	sessionIds: [303,304,306]
+    }
+    - {
+        startTime: "19:30",
+        endTime: "20:30",
+        sessionIds: [206]
+    }
+
+#FRIDAY 31
+-
+  date: "2018-08-31"
+  dateReadable: "31 Agosto"
+  tracks:
+    - {title: "Workshop 4", color: "#90be4e"}
+    - {title: "Workshop 5", color: "#03a9f4"}
+    - {title: "Workshop 6", color: "#e91e63"}
+  timeslots:
+    - {
+        startTime: "10:00",
+       	endTime: "13:00",
+       	sessionIds: [303,304,306]
+    }
+    - {
+        startTime: "21:00",
+        endTime: "23:59",
+        sessionIds: [106]
+    }
+#
+#
+#SATURDAY 1
+-
+  date: "2018-09-01"
+  dateReadable: "1 Settembre"
+  tracks:
+    - {title: "Attività", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "14:00",
+    	sessionIds: [108]
+    }
+

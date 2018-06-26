@@ -1,60 +1,121 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Mike"
+  surname: "Trizio"
+  title: "Program Committee & Speakers Manager"
+  thumbnailUrl: mike2.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/mik3lantoni0"}
+    - {name: "site", link: "http://nerdipity.org"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Paolo"
+  surname: "Rotolo"
+  title: "Program Committee"
+  thumbnailUrl: paolo.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/PaoloRotolo"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Boris"
+  surname: "D'Amato"
+  title: "Program Committee & Speakers Manager"
+  thumbnailUrl: boris.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/borisdamato"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Gea"
+  surname: "Angiulli"
+  title: "Program committee"
+  thumbnailUrl: gea.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "WTM", title: "Women Techmakers"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Michela"
+  surname: "Bertaina"
+  title: "Social Media Manager"
+  thumbnailUrl: michela.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "WTM", title: "Women Techmakers"}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 8
+  name: "Angelo"
+  surname: "Rizzi"
+  title: "Logistics Manager"
+  thumbnailUrl: angelo.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+-
+  id: 12
+  name: "Walter"
+  surname: "Anelli"
+  title: "Program Committee"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+
+-
+  id: 9
+  name: "Stefano"
+  surname: "Franco"
+  title: "Program Committee"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+-
+  id: 10
+  name: "Valerio"
+  surname: "Como"
+  title: "Program Committee"
+  thumbnailUrl: valerio-como.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+-
+  id: 11
+  name: "Nunzio"
+  surname: "Gianfelice"
+  title: "Games Manager"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+-
+  id: 13
+  name: "Giuseppe"
+  surname: "Filograno"
+  title: "Tournament Manager"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}

@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Prenota"}
 rightNavigationButtons:
@@ -220,15 +220,15 @@ logisticsMapMobileCenterCoordinates: "40.27260860000001, 18.42102909999994"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsImage: "direction.jpg"
+directionDetailsTitle: "Get around Torre Dell'Orso"
 directionDetailsCards:
- - {title: "Dagli aeroporti", information: ''}
- - {title: "Trasporti pubblici", information: ''}
+ - {title: "Dagli aeroporti", information: "La società di autobus SITA SUD effettua la tratta aeroporto di Brindisi - Lecce Foro Boario (Stazione degli autobus). La tariffa è di 6,50€ e segue <a href='http://www.sitasudtrasporti.it/archivio/Download/corse/sitasud/Puglia/Bari/85a4f897-3517-423f-ae88-33ea7b7342ae_ORBA793-18A.pdf/0' target='blank'>questi orari</a>"}
+ - {title: "Trasporti pubblici", information: "La società di autobus COTRAP con l'autobus 101 effettua la tratta Lecce Foro Boario (Stazione degli autobus) - Lecce Stazione dei treni - Torre Dell'Orso. Si scende all'Hotel Thalas vicino al Village Camping Sentinella <a href='http://www.provincia.le.it/documents/10716/edbbec03-63a3-4a23-933a-9f922dd1d9db' target='blank'>info qui</>"}
 # - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
-  title: "Domande?"
+  title: "FAQ"
   subCards:
    #-
    # title: "Hotels"
