@@ -12,14 +12,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "DevFest Levante 2018"
 email: "info@devfestlevante.eu"
-<<<<<<< HEAD
-description: "Il summer camp organizzato dal GDG Bari"
-#baseurl: "/zeppelin"
-baseurl: "/"
-=======
 description: "Il summer camp dedicato agli sviluppatori ed agli interessati alle tecnologie Google organizzato dal GDG Bari"
-baseurl: "/zeppelin"
->>>>>>> master
+#baseurl: "/zeppelin"
 url: "http//devfestlevante.eu"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55641503-3"
