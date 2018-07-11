@@ -45,7 +45,7 @@
   title: "Speechless"
   place: "Anfiteatro"
   service: true
-  description: "5 personaggi in cerca di brutte figure!"
+  description: "Personaggi audaci in cerca di brutte figure!"
 
 -
   id: 108
@@ -53,6 +53,14 @@
   place: ""
   service: true
   description: ""
+
+-
+  id: 109
+  title: "Tornei Sportivi"
+  place: "campetto"
+  service: true
+  description: ""
+
 
 #TALKS
 -
@@ -170,7 +178,19 @@
   subtype: hackathon
   speakers: []
   language: it
+  service: true
   complexity: "beginner"
+
+-
+  id: 402
+  title: "WTM Barcamp"
+  description: "Le Women Techmakers si riuniscono per discutere delle attivita' future"
+  subtype: barcamp
+  speakers: []
+  language: it
+  service: true
+  complexity: "beginner"
+
 
 
 #-
