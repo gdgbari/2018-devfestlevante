@@ -74,7 +74,7 @@
   name: "Walter"
   surname: "Anelli"
   title: "Program Committee"
-  thumbnailUrl: Walter.jpg
+  thumbnailUrl: walter.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
