@@ -43,9 +43,9 @@
     - {abbr: "GDG", title: "Google Developer Group"}
     - {abbr: "WTM", title: "Women Techmakers"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    #- {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 7
   name: "Michela"
@@ -57,7 +57,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
     - {abbr: "WTM", title: "Women Techmakers"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 -
   id: 8
   name: "Angelo"
@@ -68,28 +68,28 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 -
   id: 12
   name: "Walter"
   surname: "Anelli"
   title: "Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Walter.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 
 -
   id: 9
   name: "Stefano"
   surname: "Franco"
-  title: "Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  title: "Program Committee and Sponsorship Manager"
+  thumbnailUrl: stefano.png
   team: true
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://www.stefano.ninja"}
 -
   id: 10
   name: "Valerio"
@@ -98,7 +98,7 @@
   thumbnailUrl: valerio-como.jpg
   team: true
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 -
   id: 11
   name: "Nunzio"
@@ -107,7 +107,7 @@
   thumbnailUrl: ValentynShybanov.jpg
   team: true
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 -
   id: 13
   name: "Giuseppe"
@@ -118,4 +118,4 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}

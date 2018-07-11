@@ -12,9 +12,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "DevFest Levante 2018"
 email: "info@devfestlevante.eu"
+<<<<<<< HEAD
 description: "Il summer camp organizzato dal GDG Bari"
 #baseurl: "/zeppelin"
 baseurl: "/"
+=======
+description: "Il summer camp dedicato agli sviluppatori ed agli interessati alle tecnologie Google organizzato dal GDG Bari"
+baseurl: "/zeppelin"
+>>>>>>> master
 url: "http//devfestlevante.eu"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55641503-3"
@@ -68,7 +73,7 @@ heroButtons:
 # About Block
 aboutTitle: "Il Summer Camp - Dev Side"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "Google Developer Expert e professionisti terranno 6 workshop durante le mattine su: Android e Kotlin, TensorFlow, Conversational Degisn, AngularJs, Firebase, Google Cloud. Ce n'è per tutti i gusti! " }
+ - {title: "Workshops", image: "workshop.jpg", text: "Google Developer Expert e professionisti terranno 6 workshop durante le mattine su: Android e Kotlin, TensorFlow, Conversation Design, Angular, Firebase, Google Cloud. Ce n'è per tutti i gusti! " }
  - {title: "Talk", image: "conference.jpg", text: "Fantastici speaker: GDE e membri dei GDG di tutta Italia per apprendere nuove tecnologie e divertirsi" }
  - {title: "Hashcode", image: "hackathon.jpg", text: "Un problema reale e 4 ore per risolverlo in team, utilizzando la tua tecnologia preferita!" }
 

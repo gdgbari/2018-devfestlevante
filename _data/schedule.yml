@@ -17,7 +17,7 @@
     }
     - {
     	startTime: "19:15",
-    	endTime: "23:59",
+    	endTime: "01:00",
     	sessionIds: [103]
     }
 
@@ -28,6 +28,11 @@
   tracks:
     - {title: "Attività", color: "#90be4e"}
   timeslots:
+    - {
+    	startTime: "16:00",
+    	endTime: "19:00",
+    	sessionIds: [109]
+    }
     - {
     	startTime: "19:30",
     	endTime: "21:00",
@@ -64,13 +69,18 @@
     	sessionIds: [301,302,305]
     }
     - {
+    	startTime: "16:00",
+    	endTime: "19:00",
+    	sessionIds: [109]
+    }
+    - {
         startTime: "19:30",
         endTime: "20:30",
         sessionIds: [204]
     }
     - {
     	startTime: "21:00",
-    	endTime: "24:00",
+    	endTime: "01:00",
     	sessionIds: [105]
     }
 
@@ -88,6 +98,17 @@
        	endTime: "13:00",
        	sessionIds: [301,302,305]
     }
+    - {
+    	startTime: "16:00",
+    	endTime: "19:00",
+    	sessionIds: [109]
+    }
+    - {
+    	startTime: "19:00",
+    	endTime: "20:30",
+    	sessionIds: [402]
+    }
+
     - {
     	startTime: "22:00",
     	endTime: "24:00",
@@ -107,6 +128,11 @@
         startTime: "10:00",
        	endTime: "13:00",
        	sessionIds: [301,302,305]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "19:00",
+    	sessionIds: [109]
     }
     - {
         startTime: "19:30",
@@ -134,6 +160,11 @@
        	sessionIds: [303,304,306]
     }
     - {
+    	startTime: "16:00",
+    	endTime: "19:00",
+    	sessionIds: [109]
+    }
+    - {
         startTime: "19:30",
         endTime: "20:30",
         sessionIds: [206]
@@ -152,6 +183,11 @@
         startTime: "10:00",
        	endTime: "13:00",
        	sessionIds: [303,304,306]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "19:00",
+    	sessionIds: [109]
     }
     - {
         startTime: "21:00",
