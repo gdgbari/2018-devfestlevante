@@ -219,12 +219,12 @@
 
 -
   id: 20
-  name: "Paolo"
-  surname: "Rotolo"
-  company: ""
+  name: "Antonietta"
+  surname: "Sivo"
+  company: "WTM Bari"
   title: ""
   bio: ""
-  thumbnailUrl: paolo.jpg
+  thumbnailUrl: anto.jpg
   rockstar: true
   ribbon:
       - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Bari/"}
@@ -233,12 +233,12 @@
     - {name: "twitter", link: ""}
 
 -
-  id: 20
+  id: 21
   name: "Andrea"
   surname: "Lops"
-  company: ""
+  company: "GDG Bari"
   title: ""
-  bio: ""
+  bio: "Essere umano a base di carbonio, studente di Ingegneria Informatica al Politecnico di Bari. Amante della natura, moddatore, ed allievo jedi... ehm volevo dire allievo sviluppatore mobile"
   thumbnailUrl: lops.jpg
   rockstar: false
   ribbon:
@@ -246,6 +246,4 @@
   social:
     - {name: "facebook", link: ""}
     - {name: "twitter", link: ""}
-
-
 
