@@ -227,10 +227,9 @@
   thumbnailUrl: anto.jpg
   rockstar: true
   ribbon:
-      - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Bari/"}
+    - {abbr: "WTM", title: "Women Techmakers", url: "https://www.facebook.com/womentechmakersit/"}
   social:
-    - {name: "facebook", link: ""}
-    - {name: "twitter", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/anto.rassivo"}
 
 -
   id: 21
@@ -240,10 +239,11 @@
   title: ""
   bio: "Essere umano a base di carbonio, studente di Ingegneria Informatica al Politecnico di Bari. Amante della natura, moddatore, ed allievo jedi... ehm volevo dire allievo sviluppatore mobile"
   thumbnailUrl: lops.jpg
-  rockstar: false
+  rockstar: true
   ribbon:
       - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Bari/"}
   social:
-    - {name: "facebook", link: ""}
-    - {name: "twitter", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/lopsandrea"}
+    - {name: "twitter", link: "https://twitter.com/LopsAndrea"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lopsandrea"}
 
