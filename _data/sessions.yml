@@ -105,15 +105,26 @@
   speakers: [15]
   language: it
   complexity: "Intermediate"
-
+  
 -
   id: 206
-  title: "Google Assistant"
-  description: ""
+  title: "How to become pastry chefs on Android"
+  description: "Secondo gli ultimi dati provvenienti dell'Unione Europea cambiamo cellulare mediamente ogni 16 mesi, senza che esso abbia problemi o danni. Sarà colpa della moda? Sarà forse colpa dei produttori che non aggiornano i propri dispositivi, funzionanti ma obsoleti?
+Il comprendere il perchè di tutto ciò è difficile, ma non ci arrendiamo! Ce una soluzione: Cucinare una ROM per il proprio dispositivo, e farlo rinascere!!!
+Con qualche piccola 'infarinatura' nozionistica, un 'fornello' e tanta passione, capiremo quanto sia importante diventare degli ottimi cuochi di ROM."
   subtype: presentation
-  speakers: []
+  speakers: [21]
   language: it
   complexity: "Intermediate"
+
+-
+  id: 403
+  title: "Blender e l'evoluzione dell'animazione"
+  description: "L'avvento dei computer ha introdotto numerose novità e ha facilitato ed accelerato la produzione di film d'animazione: gli animatori non disegnano né colorano le singole scene, come nell'animazione tradizionale, ma i personaggi dei cartoni animati e gli sfondi vengono creati al computer con strumenti come Blender utilizzando basi strettamente matematiche quali l'interpolazione."
+  subtype: presentation
+  speakers: [20]
+  language: it
+  complexity: "beginner"
 
 #WORKSHOP
 
