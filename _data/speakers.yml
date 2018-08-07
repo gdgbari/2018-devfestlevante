@@ -112,6 +112,18 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/romanofranz/"}
 
 -
+  id: 11
+  name: "Azzurra"
+  surname: "Ragone"
+  company: "Google"
+  title: ""
+  bio: "Google Community Specialist, I love both technology and people and interact with them every day. Passionate about Service/Product Design and design thinking techniques, because before to start solving a problem you should be sure you are solving the right one!"
+  thumbnailUrl: azzurra.png
+  rockstar: true
+  ribbon:
+    - {abbr: "Googler", title: "Googler", url: "https://www.google.com/"}
+
+-
   id: 12
   name: "Roberto"
   surname: "Orgiu"

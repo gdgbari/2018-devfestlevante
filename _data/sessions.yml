@@ -131,7 +131,7 @@ Con qualche piccola 'infarinatura' nozionistica, un 'fornello' e tanta passione,
 -
   id: 301
   title: "Kotlin 101"
-  description: "Benvenuti nell'universo Android! Roberto Orgiu, GDE Android ci introdurrà Kotlin il nuovo linguaggi di programmazione di IntelliJ e promosso come linguaggio principale su Android insieme a Java"
+  description: "Benvenuti nell'universo Android! Roberto Orgiu, GDE Android ci introdurrà Kotlin il nuovo linguaggi di programmazione di JetBrains e promosso come linguaggio principale su Android insieme a Java"
   subtype: workshop
   speakers: [12]
   language: it
@@ -166,10 +166,10 @@ Con qualche piccola 'infarinatura' nozionistica, un 'fornello' e tanta passione,
 
 -
   id: 305
-  title: "Convodesign"
+  title: "Design Sprint"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [11]
   language: it
   complexity: "beginner"
 
