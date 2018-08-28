@@ -175,10 +175,10 @@ Con qualche piccola 'infarinatura' nozionistica, un 'fornello' e tanta passione,
 
 -
   id: 306
-  title: "Google Cloud"
-  description: ""
+  title: "Google Cloud: 101 + GCP Arhitecture"
+  description: "An hour dedicated to a quick tour of the Google Cloud Platform: its structure, its complexity, its tools, architectures and fundamentals. Then we will put our hands on the code with live guided laboratories. Labs are open to everyone: beginners, intermediates and experts; remember to grab your pc (it's the only thing you'll need)."
   subtype: workshop
-  speakers: []
+  speakers: [22]
   language: it
   complexity: "beginner"
 
