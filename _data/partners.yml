@@ -15,6 +15,10 @@
     - {name: "Math2B", description: "Math2B", link: "http://www.math2b.it/", imageUrl: "math2B.png"}
     - {name: "NexToMe", description: "Indoor positioning", link: "https://www.nextome.net/", imageUrl: "logo-blu.png"}
     - {name: "ApuliaSoft", description: "ApuliaSoft", link: "https://www.apuliasoft.com/", imageUrl: "apuliasoft.png"}
+- 
+  group: "Special Guest"
+  elements: 
+    - {name: "Red Bull", description: "Red Bull", link: "http://redbull.com", imageUrl: "redbull.jpg"}
 -
   group: "Patrocinato da"
   elements:
